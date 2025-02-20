@@ -8,7 +8,7 @@
 <b><u>Resistor:</u></b> A resistor is a passive electronic component that opposes the flow of electric current, converting electrical energy into heat. It is used to control voltage and current in a circuit, with its resistance measured in ohms (Ω).
 
 ## 🖼️ Images
-<i><b>Figure:1</b></i><img src="Image1.jpg"><i><b>Figure:2</b></i><img src="Image2.jpeg"><i><b>Figure:3</b></i><img src="Image3.jpeg"><i><b>Figure:4</b></i><img src="Image4.jpeg">
+<i><b>Figure:1</b></i><img src="Image1.jpeg"><i><b>Figure:2</b></i><img src="Image2.jpeg"><i><b>Figure:3</b></i><img src="Image3.jpeg"><i><b>Figure:4</b></i><img src="Image4.jpeg">
 <caption><i>Clicked By SM.Mushfiqur Rahman</i></caption>
 
 ## ⚙️ How It Works
